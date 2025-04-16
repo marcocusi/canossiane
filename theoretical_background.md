@@ -5,10 +5,12 @@ Questa sezione presenta i concetti fondamentali della statistica e del testing d
 ## Basi di Statistica
 
 - **Media, Moda, Mediana**;
-  $$\bar{x} = \frac{1}{n} \sum_{i=1}^{n} x_i$$
+  
+$$ \bar{x} = \frac{1}{n} \sum_{i=1}^{n} x_i $$
 
-    $$ x_i :\forall k \in X( count(k) \leq count(x_i))$$
-    $$ x_{\left(\frac{n+1}{2}\right)} $$ 
+$$ x_i :\forall k \in X( count(k) \leq count(x_i)) $$
+
+$$ x_{\left(\frac{n+1}{2}\right)} $$ 
 
 - **Varianza e Deviazione Standard:** Misure della dispersione dei dati;
 
