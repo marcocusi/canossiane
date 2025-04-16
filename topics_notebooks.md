@@ -8,11 +8,11 @@ Di seguito sono elencati i topic che il vostro gruppo può scegliere per l'anali
 - **Focus:** Gestione di variabili multiple, unione e standardizzazione dei dati.
 
 ## 2. Analisi di Elezioni Politiche
-- **Dataset:** Elezioni del 2016 negli Stati Uniti (con eventuale confronto alle elezioni precedenti).
-- **Focus:** Time series analysis e correlazioni tra voti democratici, repubblicani e dati demografici.
+- **Dataset:** Elezioni del 2020 negli Stati Uniti (con econfronto alle elezioni precedenti).
+- **Focus:** Time series analysis e correlazioni tra voti democratici, repubblicani, dati demografici e casi di COVID19.
 
-## 3. Inquinamento e Salute
-- **Obiettivo:** Analizzare la relazione tra qualità dell’aria e infezioni respiratorie.
-- **Focus:** Unione di dataset differenti per ottenere una visione completa dell’impatto ambientale sulla salute.
+## 3. Condizioni meteo e incendi in Australia
+- **Obiettivo:** Analizzare la relazione tra il meteo e la possibilità di incendi
+- **Focus:** Analisi di molte variabili e differenze geografiche o temporali
 
 [Home](index.md)
