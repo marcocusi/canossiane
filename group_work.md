@@ -24,4 +24,5 @@ Questa sezione guida l’attività di gruppo che si svolgerà il Giovedì.
    - Condividere i risultati e discutere le differenze.
 
 [Link](link.md)
+
 [Home](index.md)
