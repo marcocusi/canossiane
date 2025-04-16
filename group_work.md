@@ -23,6 +23,4 @@ Questa sezione guida l’attività di gruppo che si svolgerà il Giovedì.
    - Utilizzare il tempo residuo per migliorare grafici e approfondire le analisi.
    - Condividere i risultati e discutere le differenze.
 
-[Link](link.md)
-
 [Home](index.md)
