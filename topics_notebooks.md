@@ -15,8 +15,8 @@ Di seguito sono elencati i topic che il vostro gruppo può scegliere per l'anali
 - **Obiettivo:** Valutare il valore dei calciatori considerando squadre, statistiche e altre variabili.
 - **Focus:** Gestione di variabili multiple, unione e standardizzazione dei dati.
 
-  [Gruppo C](groupClink.png)
-  [Gruppo D](groupDlink.png)
+  [Gruppo C](groupCLink.png)
+  [Gruppo D](groupDLink.png)
 
 ## 3. Condizioni meteo e incendi in Australia (Gruppi E,F)
 - **Obiettivo:** Analizzare la relazione tra il meteo e la possibilità di incendi
