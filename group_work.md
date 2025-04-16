@@ -12,7 +12,7 @@ Questa sezione guida l’attività di gruppo che si svolgerà il Giovedì.
 ## Fasi dell'Attività
 
 1. **Accesso al Notebook su Google Colab:**
-   - Ogni gruppo riceverà un link a un notebook preconfigurato.
+   - Ogni gruppo riceverà un notebook preconfigurato.
    - Potete cambiare le variabili e/o i metodi di analisi, come spiegato ieri.
 
 2. **Analisi Guidata:**
@@ -22,5 +22,7 @@ Questa sezione guida l’attività di gruppo che si svolgerà il Giovedì.
 3. **Preparazione della Presentazione:**
    - Utilizzare il tempo residuo per migliorare grafici e approfondire le analisi.
    - Condividere i risultati e discutere le differenze.
+
+![QR Code](./frame.png)
 
 [Home](index.md)
