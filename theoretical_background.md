@@ -21,9 +21,7 @@ $$ s^2 = \frac{1}{n-1} \sum_{i=1}^{n} (x_i - \bar{x})^2 $$
 ### Task: mini analisi età
 ## Applicazioni nella Vita Reale
 
-La statistica aiuta a:
-- Analizzare dati economici e sociali.
-- Prendere decisioni in campo medico e sportivo.
+Perché si studia statistica? E l'analisi dei dati?
 
 ## Progetti di Data Analysis
 
