@@ -2,6 +2,10 @@
 
 Questa sezione presenta i concetti fondamentali della statistica e del testing di ipotesi.
 
+## Perché si studia Statistica?
+
+
+
 ## Basi di Statistica
 
 - **Media, Moda, Mediana**;
@@ -19,9 +23,6 @@ $$ \sigma^2 = \frac{1}{N} \sum_{i=1}^{N} (x_i - \mu)^2 $$
 $$ s^2 = \frac{1}{n-1} \sum_{i=1}^{n} (x_i - \bar{x})^2 $$
 
 ### Task: mini analisi età
-## Applicazioni nella Vita Reale
-
-Perché si studia statistica? E l'analisi dei dati?
 
 ## Progetti di Data Analysis
 
