@@ -1,4 +1,4 @@
-# Theoretical Background
+# Basi di Statistica
 
 Questa sezione presenta i concetti fondamentali della statistica e del testing di ipotesi.
 
@@ -66,6 +66,9 @@ Analisi Statistiche:
 | **Non rigetta**                                   | Inferenza corretta (vero negativo)       | Errore di tipo 2 (falso negativo)        |
 | **Rigetta**                                       | Errore di tipo 1 (falso positivo)        | Inferenza corretta (vero positivo)       |
 
+
+## TASK
+[Kahoot](https://create.kahoot.it/share/basi-di-statistica/180cd5cc-7f41-4461-aa43-35e3d4469cc1)
 
 
 [Home](index.md)
