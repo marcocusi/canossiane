@@ -70,5 +70,5 @@ Analisi Statistiche:
 ## TASK
 [Kahoot](https://create.kahoot.it/share/basi-di-statistica/180cd5cc-7f41-4461-aa43-35e3d4469cc1)
 
-
+***
 [Home](index.md)
