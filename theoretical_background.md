@@ -4,7 +4,7 @@ Questa sezione presenta i concetti fondamentali della statistica e del testing d
 
 ## Perché si studia Statistica?
 
-
+!(foto.png)
 
 ## Basi di Statistica
 
