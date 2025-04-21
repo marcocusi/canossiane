@@ -37,7 +37,7 @@ Quando si analizzano i dati, si formulano ipotesi da testare:
 
 Analisi Statistiche:
 
-- **T-test**: Misura la differenza tra le medie dei due gruppi (ing_label 0 e ing_label 1) in termini di errore standard. Un valore assoluto più elevato del t-statistic indica una differenza maggiore tra le medie.
+- **T-test**: Misura la differenza tra le medie dei due gruppi (e.g. più alti della media, più bassi della media) in termini di errore standard. Un valore assoluto più elevato del t-statistic indica una differenza maggiore tra le medie.
 - **Correlazione di Pearson**: Misura la relazione lineare tra due variabili. Il valore varia da -1 a +1: -1: Correlazione lineare negativa perfetta 0: Nessuna correlazione lineare +1: Correlazione lineare positiva perfetta
 - **Correlazione di Spearman**: Misura la relazione monotona tra due variabili (cioè, se tendono a incrementare o decrementare insieme, indipendentemente dalla linearità). Anche questa variabile varia da -1 a +1 e le interpretazioni sono simili a quelle della correlazione di Pearson.
 - **P-value**: Indica la probabilità di ottenere i risultati osservati (o risultati ancora più estremi) se non esiste una reale differenza tra i gruppi. Un p-value inferiore a 0,05 è generalmente considerato statisticamente significativo, suggerendo che esiste una differenza significativa tra i gruppi.
