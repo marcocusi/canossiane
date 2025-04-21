@@ -8,7 +8,7 @@ In questo mini progetto esploreremo:
 
 Martedì 22 Aprile - Intro:
 
-- [Basi di teoria statistica](theoretical_background.md)
+- [Basi di Statistica](theoretical_background.md)
 - [Demo di Data Analysis con Google Colab](demo_data_analysis.md)
 
 Giovedì 24 Aprile - Lavoro a gruppi:
