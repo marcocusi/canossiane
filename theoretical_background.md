@@ -61,5 +61,11 @@ Analisi Statistiche:
 
 ## Falsi positivi e negativi
 
+|  **La decisione circa l'ipotesi nulla (H₀) è**                  | **L'ipotesi nulla (H₀) è vera**         | **L'ipotesi nulla (H₀) è falsa**        |
+|---------------------------------------------------|------------------------------------------|------------------------------------------|
+| **Non rigetta**                                   | Inferenza corretta (vero negativo)       | Errore di tipo 2 (falso negativo)        |
+| **Rigetta**                                       | Errore di tipo 1 (falso positivo)        | Inferenza corretta (vero positivo)       |
+
+
 
 [Home](index.md)
