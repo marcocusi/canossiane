@@ -57,6 +57,8 @@ Analisi Statistiche:
 - **Descrizione:** Anche se una correlazione è statisticamente significativa, non significa necessariamente che abbia un impatto rilevante nella pratica. Ricorda: correlazione non significa causalità. Solo perché due variabili si muovono insieme, non vuol dire che una causi l'altra.
 - **e.g.** Durante i mesi estivi, le vendite di gelato tendono ad aumentare e, allo stesso tempo, si osserva un incremento delle scottature. Il gelato provoca scottature?
 
+[Mini Ted Talk](https://youtu.be/8B271L3NtAw?si=frQhhcv_xSS8aI7y)
+
 ## Falsi positivi e negativi
 
 |  **La decisione circa l'ipotesi nulla (H₀) è**                  | **L'ipotesi nulla (H₀) è vera**         | **L'ipotesi nulla (H₀) è falsa**        |
